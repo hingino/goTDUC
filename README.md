@@ -18,7 +18,7 @@ GPU with very little system overhead.
 - [ ] amd compatible
 - [ ] intel compatible
 
-## Pipeline {#pipline-id}
+## Pipeline
 
 To keep things actually tiny, we must adhear to a specific order 
 of operations.
@@ -36,7 +36,7 @@ of operations.
 * Have to use custom version of ghw
     * current online version does not properly pull driver info
     * see [my pull request](https://github.com/jaypipes/ghw/pull/331)
-* Only features checked off in the [Pipleine](#pipeline-id) section are complete
+* Only features checked off in the [Pipleine](#pipeline) section are complete
 
 ### Arguments (todo)
 
