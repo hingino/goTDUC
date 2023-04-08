@@ -16,6 +16,7 @@ require (
 
 require (
 	github.com/jaypipes/ghw v0.10.0
+	github.com/thedevsaddam/gojsonq v2.3.0+incompatible
 	golang.org/x/sys v0.0.0-20220319134239-a9b59b0215f8 // indirect
 )
 
